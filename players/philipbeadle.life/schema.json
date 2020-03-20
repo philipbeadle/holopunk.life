@@ -1,0 +1,253 @@
+{
+  "basics": {
+    "name": "Philip Beadle",
+    "label": "Engineer, Developer, Leader",
+    "picture": "john-alt.png",
+    "email": "me@philipbeadle.life",
+    "phone": "+61 417 301 024",
+    "website": "http://philipbeadle.life",
+    "summary": "Experienced Engineer with a demonstrated history of pushing the envelope to deliver excellent outcomes for clients. I have a comprehensive background and have worked with nearly every internet language (current favourites Rust, Node), framework (current favourite Vue.js) and methodology so far, including 2 years in the crypto distributed application space as the Chief Engineer for Holochain.org (https://holo.host) with an emphasis on driving the application development, RAD tooling and best practices space.  I also have extensive strategic leadership and implementation management experience, and have delivered transformative projects and world-class practices. Skilled in Scrum, TeamCity, Team Foundation Server (TFS), Atlassian Stack, Agile Methodologies, and Test Automation. Strong team leader and quality assurance professional for both remote and in person teams with a Bachelor of Engineering (B.Eng.) in Chemical Engineering from Curtin University. Experience in building training courses and have executed for Microsoft in C# and Readify in .Net and was a Microsoft MVP for 5 years.",
+    "promo": "If it's web or team related I can either help you out or put you in contact with someone I trust.",
+    "location": {
+      "address": "",
+      "postalCode": "3148",
+      "city": "Melbourne",
+      "countryCode": "AU",
+      "region": "Victoria"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Philip Beadle",
+        "url": "https://www.linkedin.com/in/philip-beadle/"
+      },
+      {
+        "network": "Github",
+        "username": "philipbeadle",
+        "url": "https://github.com/philipbeadle"
+      }
+    ]
+  },
+  "highlight": "I have been a major contributor to the Holochain Open Source Project since August 2017.",
+  "work": [
+    {
+      "company": "Holochain",
+      "position": "Chief Engineer",
+      "website": "https://holochain.org",
+      "startDate": "2018-01-01",
+      "summary": "A more human internet. Holochain is a new open source framework for truly peer-to-peer applications. Holo acts as a bridge between Holochain apps and users by creating an ecosystem that enables distributed hosting services provided by peers."
+    },
+    {
+      "company": "elabor8",
+      "position": "Software Design Chapter Lead ",
+      "website": "http://company.com",
+      "startDate": "2017-08-01",
+      "summary": "Humanity’s potential to achieve great things is constrained by yesterday’s thinking. We continuously explore better ways to enable organisations to challenge the impossible on a large scale."
+    },
+    {
+      "company": "Odecee, A Cognizant Digital Business",
+      "position": "Automation Practice Lead",
+      "website": "https://www.cognizant.com/",
+      "startDate": "2014-09-01",
+      "summary": "Drive the goto-market technology vision for the Odecee Automation Practice in Australia and New Zealand. Bring new technology, thinking and problem solving to our customers whilst continuing to derive value from their existing infrastructure investments.  At ANZ I developed a strategy to streamline and improve the delivery process by automating the testing and driving better developer behaviour through automated feedback on code quality.  The strategy is so successful it is being used right across the Digital Channel and is moving into most other parts of the bank as a model for delivery."
+    },
+    {
+      "company": "Planit Software Testing",
+      "position": "Technical Test Team Lead",
+      "website": "https://www.planittesting.com/",
+      "startDate": "2009-01-01",
+      "summary": "Built the automation capability so that PlanIt did not have to not rely solely on manual testing."
+    },
+    {
+      "company": "DNN Corp.",
+      "position": "Senior Developer Technical Evangelist",
+      "website": "https://www.dnnsoftware.com/",
+      "startDate": "2002-01-01",
+      "summary": "In 2002 I started working on a sample app from Microsoft that was released to show people how to write .Net apps.  This turned into a small group on a forum all modifying the same base code.  This then grew into a larger open source project and became what is today www.dnsoftware.com.  DNN was one of the first open source projects on the MS stack and drove a lot of changes in the MS world.  DNN has hundreds of thousands of developers, designers, administrators, hosts and experts who all rely on DNN for their work.  There are millions of sites worldwide all running in their native languages and some of the biggest sites are for massive multinationals and some of the smallest for local community groups.  The power of open source and the freemium model are demonstrated beautifully with DNN. I also wrote a Dummies book on DNN and have spoken at many conferences about it."
+    },
+    {
+      "company": "Readify",
+      "position": "Principal Consultant",
+      "website": "https://readify.net/",
+      "startDate": "2005-10-01",
+      "summary": "As a Principal Consultant I worked across the range of Microsoft products building solutions for our clients. I wrote technical training courses to teach people .Net and wrote courses for Microsoft as well in C#. In my role for a joint project between Microsoft and VISA I built a test framework that enabled us to do what is now called continuous delivery. That project ran for 2 years with a crew of 10 and had a zero bug bounce for the entirety of the project cementing my belief that continuous testing and use of code style tools does create a much better outcome for less effort and expenditure."
+    },
+    {
+      "company": "Nexxus Systems International",
+      "position": "Owner",
+      "website": "https://www.byte.com.au/",
+      "startDate": "2000-10-01",
+      "summary": "Started my own software company building web sites and bespoke ISP solutions and sold it to Byte in 2004."
+    }     
+  ],
+  "awards": [
+    "Microsoft Most Valuable Professional", 
+    "ANZ Consumer Digital Excellence Award",
+    "Readify Summit Club Award",
+    "Microsoft Visual Studio 2005 ACE Contributor",
+    "Victorian Govt ICT Showcase"
+  ],
+  "education": [
+    {
+      "institution": "Curtin University",
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "1993-01-01",
+      "endDate": "1997-12-01",
+      "gpa": "",
+      "courses": [
+        "Chemical Engineering (Honours)"
+      ]
+    },
+    {
+      "institution": "Scrum.org",
+      "area": "Product Owner",
+      "studyType": "Certificate",
+      "startDate": "2017-08-01",
+      "endDate": "2017-08-01",
+      "gpa": "",
+      "courses": [
+        "Professional Product Owner"
+      ]
+    },
+    {
+      "institution": "Scaled Agile, Inc.",
+      "area": "SAFe",
+      "studyType": "Certificate",
+      "startDate": "2015-09-01",
+      "endDate": "2015-09-01",
+      "gpa": "",
+      "courses": [
+        "SAFe - Scale Agile Framework for enterprise"
+      ]
+    },
+    {
+      "institution": "Microsoft",
+      "area": "Developer",
+      "studyType": "Certificate",
+      "startDate": "2010-01-01",
+      "endDate": "2010-01-01",
+      "gpa": "",
+      "courses": [
+        "Certified Application Developer"
+      ]
+    },
+    {
+      "institution": "Microsoft",
+      "area": "Developer",
+      "studyType": "Certificate",
+      "startDate": "2013-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "",
+      "courses": [
+        "Technology Associate"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        {"keyword": "Javascript","level": 5},
+        {"keyword": "Typescript","level": 5},
+        {"keyword": "C#","level": 5},
+        {"keyword": "Rust","level": 3},
+        {"keyword": ".Net","level": 4}
+      ]
+    },
+    {
+      "name": "Web Frameworks",
+      "keywords": [
+        {"keyword": "Vue","level": 4},
+        {"keyword": "React","level": 4},
+        {"keyword": "Angular","level": 4},
+        {"keyword": "Firebase","level": 3},
+        {"keyword": "Polymer","level": 4}
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": 4,
+      "keywords": [
+        {"keyword": "Source Control","level": 5},
+        {"keyword": "Team Tools","level": 5},
+        {"keyword": "Build Systems","level": 5},
+        {"keyword": "CI, CD, CDD","level": 5},
+        {"keyword": "Automation Testing","level": 5}
+      ]
+    }
+  ],
+  "publications": [
+    {"publication": "Silverlight for Dummies", "publisher": "Wiley", "link": "https://www.dummies.com/software/microsoft-silverlight-4-for-dummies/", "image": "silverlight-for-dummies.jpg"},
+    {"publication": "DotNetNuke for Dummies", "publisher": "Wiley", "link": "https://www.dummies.com/store/product/DotNetNuke-For-Dummies.productCd-0471798436.html", "image": "dotnetnuke-for-dummies.jopg"}
+  ],
+  "interests": [
+    {
+      "name": "Get IT Done!",
+      "keywords": [
+        "Lead your team from the Front, Middle and Back",
+        "Implement your vision. I have an uncanny knack of being able to decipher what my clients need, immediately build a Proof of Concept and then led a team to deliver."
+      ]
+    },    
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Technology, Code, Web and Techno are my thing. My current faves for web development are Vuetify and React.",
+        "Back ends I'm liking are Firebase, most APIs & Holochain"
+      ]
+    },
+    {
+      "name": "Holochain",
+      "keywords": [
+        "As Chief Engineer on Holochain since the ICO in 2018 I can build your distrubuted application and teach your team as well."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "client": "Holo Ltd",
+      "name": "Holochain - Personas & Profiles",
+      "description": "An agent centric, distributed Holochain application for securely storing and managing people's personal, private information that can be shared with other Holochain hApps via mappings keeping the inforamtion completely in the person's control.",
+      "category": "P2P Distributed Applications",
+      "src": "holochain.png",
+      "team": "Remote - AU, US, EU, NZ, CA, DR"
+    },
+    {
+      "client": "@pherrol",
+      "name": "EPK Website with Merch Store",
+      "description": "Artist profile site suitable for all devices that can be used as an Electronic Press Kit. The objective of the site is to show promoters, venues and fans a professional, fast loading site showcasing @pherrol's gigs, music and merch.",
+      "category": "Artist Sites",
+      "src": "pherrol.png",
+      "team": "Local"
+    },
+    {
+      "client": "DNN Corp.",
+      "name": "Build Pipeline",
+      "description": "Built a CI pipeline to build, test and package the 7 different flavours of DNN. This process orignally took 3 16 hour days to complete and at the end of this project a complete build only took 35 minutes. Which allowed DNN to build, test and package continuously.",
+      "category": "DevOps",
+      "src": "dnn-software.png",
+      "team": "Remote - AU, US, EU"
+    }
+  ],
+  "projectsCarousel": "1",
+  "clients": [
+    {
+      "quote": "Aliquam sit amet eros id lorem posuere lobortis ut id enim. Proin ullamcorper fringilla risus et lacinia.Aliquam eget lacus a libero.",
+      "name": "Art Brock",
+      "company": "Holochain",
+      "avatar": "Arthur-Brock.jpg"
+    },
+    {
+      "quote": "The site Phil built for @pherrol has really given our reputation a boost as being a super professional outfit, that has made it much easier to get gigs and keep fans in the loop.",
+      "name": "ErrolJ",
+      "company": "@pherrol",
+      "avatar": "ErrolJ.jpg"
+    },
+    {
+      "quote": "Wow, the web site built for me is super slick and fast and I can manage all the info on it myself. I can even sell merch now 😎",
+      "name": "Mhairi Cunningham",
+      "company": "Mha Iri",
+      "avatar": "Mhairi.png"
+    }
+  ]
+}

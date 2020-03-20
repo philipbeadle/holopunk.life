@@ -1,0 +1,12 @@
+{
+  "name": "nix-shell-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/cli": "^4.2.3"
+  },
+  "scripts": {
+    "vue": "node_modules/@vue/cli/bin/vue.js"
+  }
+}
